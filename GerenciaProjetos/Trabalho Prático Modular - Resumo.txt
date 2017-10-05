@@ -1,0 +1,40 @@
+﻿Trabalho Prático Modular - Resumo
+
+Desenvolvimento WEB
+
+	Usuarios:
+		Nome Completo - (ok)
+		CPF - (ok)
+		Endereço - (ok)
+		Telefone(s) - ok
+		Formação Acadêmica(Fundamental, médio, técnico ou superior) - (ok)
+		Área de Atuação(RH, financeiro, TI, etc) - (ok)
+		Login (primeiro nome "." ultimo nome, caso ja exista, notificar e adicionar um valor numerico sequencial) - ok
+		Senha (criptografia MD5) - ok
+
+	Projetos:
+		Nome - (ok)
+		Descrição - (ok)
+		Cliente - (ok)
+		Tel Cliente - (ok)
+		Dt Início - (ok)
+		Dt Término - (ok)
+
+	Pessoa N x N Projeto
+
+	Alocação:
+		Papel da Pessoa no Projeto - (ok)
+		Carga Horária no Projeto (Não excedendo a carga horaria total do dia)
+		Inicio e término da alocação da pessoa no projeto - (ok)
+		Campo Observação (Somente o Gerente pode adicionar uma anotação neste campo) - (ok)
+
+IHC (Interface Homem Computador)
+
+	Avaliação de Usabilidade:
+		1 - Visibilidade de Status do Sistema (ok)
+		2 - Consistência e Padronização (ok)
+		3 - Reconhecimento ao invés de memorização (ok)
+
+	Design Responsivo - (ok)
+
+	Acessibilidade do Sistema - (ok)

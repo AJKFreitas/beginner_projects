@@ -1,0 +1,14 @@
+03/11/2016 - 08:47 { Strategy and Template Method Pattern - Funcionando }
+03/11/2016 - 10:28 { Editar - Detalhar - Projetos }
+03/11/2016 - 22:00 { TRatamento de Erros, Controle de Visão }
+05/11/2016 - 16:00 { Teclas de atalho para a navbar e Acessibilidade }
+06/11/2016 - 20:32 { Classes Telefone e Endereço }
+10/11/2016 - 12:30 { Layout de Funcionario e seus relacionados }
+12/11/2016 - 13:00 { Endereço de Funcionário e seus relacionados }
+13/11/2016 - 12:00 { Editar Funcionário }
+16/11/2016 - 10:00 { Funcionário ok (exceto telefone) }
+16/11/2016 - 15:00 { Funcionário em Projeto - Incluir}
+02/12/2016 - 00:00 { Funcionário Telefone - Incluir}
+
+5-  Não da mensagem de erro na tela (mensagens de erro de SQL funcionando)
+6- Colocar contador de caractere em descriçao 
